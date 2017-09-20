@@ -1,0 +1,90 @@
+@import "https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">;
+
+body{
+	font-family: 'Playfair Display', Aria, serif;
+	width: 800px;
+	margin: 0 auto;
+	background-image: url(fon.jpg);
+	padding: 10px;
+}
+
+header {
+		background: #787F79;
+        border-radius: 6px;
+        height: 120px;
+}
+nav {
+			
+	background: #787F79;
+	font-color: black;
+	font-weight: bold;
+	}
+
+	.inspired{
+		font-style: italic;
+		text-shadow: 2px 2px 0 #ccc;
+		text-align: right;
+	}
+	.textok {
+	 font-family: Helvetica, Aria, serif;
+	}
+
+ul	li{
+	color: black;
+}
+
+.services{
+	font-style: italic;
+		text-shadow: 2px 2px 0 #ccc;
+}
+
+.by{
+font-family: "Open Sans", Aria, sans-serif;
+text-decoration: underline;
+}
+.we{
+	font-family: monospace, Aria, sans-serif;
+text-decoration: underline;
+}
+.discover{
+	font-family: "Amatic SC", Aria, sans-serif;
+text-decoration: underline;
+text-transform: uppercase;
+}
+.contact{
+	font-style: italic;
+	text-shadow: 2px 2px 0 #ccc;
+}
+
+.get{
+	font-style: italic;
+	text-shadow: 2px 2px 0 #ccc;
+}
+footer{
+
+	background: #787F79;
+     border-radius: 6px;
+     height: 25px;
+     font-weight: bold;
+}
+
+
+#phone{
+
+	font-size: 22px;
+}
+
+#name{
+	font-size: 22px;
+
+}
+
+#email{
+	font-size: 22px;
+
+}
+#comments{
+	font-size: 22px;
+
+font-style: italic
+}
